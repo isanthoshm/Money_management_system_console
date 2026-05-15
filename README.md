@@ -45,37 +45,8 @@ Exit
 
 ## 📁 Project Structure
 money-manager-java/
-├── src/
-│   └── main/
-│       └── java/
-│           └── com/moneymanager/
-│               ├── Main.java
-│               ├── db/
-│               │   └── DBConnection.java
-│               ├── models/
-│               │   ├── Account.java
-│               │   ├── Category.java
-│               │   ├── Transaction.java
-│               │   └── Budget.java
-│               ├── dao/
-│               │   ├── AccountDAO.java
-│               │   ├── CategoryDAO.java
-│               │   ├── TagDAO.java
-│               │   ├── TransactionDAO.java
-│               │   ├── BudgetDAO.java
-│               │   └── ReportDAO.java
-│               ├── ui/
-│               │   ├── AccountUI.java
-│               │   ├── TransactionUI.java
-│               │   ├── BudgetUI.java
-│               │   ├── CategoryUI.java
-│               │   └── ReportUI.java
-│               └── utils/
-│                   └── ConsoleUtils.java
-├── sql/
-│   └── schema.sql
-├── pom.xml
-└── README.md
+<img width="1440" height="1240" alt="image" src="https://github.com/user-attachments/assets/89cd4b26-efa1-4df1-aa6c-c82835fa74d3" />
+
 ---
 
 ## ⚙️ Setup & Installation
